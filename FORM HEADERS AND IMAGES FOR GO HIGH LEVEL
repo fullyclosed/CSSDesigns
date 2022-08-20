@@ -1,0 +1,17 @@
+<!---This file has some code that will let you modify forms and set headers or sections with an image that belongs to them conceptually. #ODAVS.---->
+
+<style>
+o {
+color: #7f8385;
+font-size: 20px;
+font-weight: 800;
+text-align: left;
+}
+body{
+font-weight: 800
+}
+</style>
+<o>CONTACT <br>INFORMATION</o>
+
+<!----Get image URL from the library and paste it here. You can also define its WIDTH and HEIGHT . SQUARE 300px * 300px recommended for this project. --alt will ...highlight the seciton name -->
+<img src="https://storage.googleapis.com/msgsndr/iQSM7lBxRwBfMsQMQmRD/media/63001f9b518efe4e830087ee.png" alt="Contact Information" style="width:300px;height:300px;">
